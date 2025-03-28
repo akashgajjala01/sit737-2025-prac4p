@@ -1,0 +1,18 @@
+{"level":"info","message":"New add operation: 10 add 5 = 15","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /add?num1=10","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation: 10 subtract 5 = 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation: 10 subtract 4 = 6","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation: 10 subtract -11 = 21","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New multiply operation: 10 multiply 5 = 50","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New divide operation: 10 divide 5 = 2","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /divide?num1=10&num0=5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"info","message":"New subtract operation: 10 subtract 5 = 5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}

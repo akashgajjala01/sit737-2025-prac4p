@@ -1,0 +1,11 @@
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /add?num1=10","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /divide?num1=10&num0=5","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
+{"level":"error","message":"Invalid request: /favicon.ico","service":"calculator-microservice"}
